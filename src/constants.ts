@@ -1,6 +1,6 @@
 export const CONTACT_DETAILS = {
-  phone: '+91 8296079646',
-  whatsappNumber: '918296079646', // Format: CountryCodePhoneNumber (no + or spaces)
+  phone: '+91 9353156364',
+  whatsappNumber: '919353156364', // Format: CountryCodePhoneNumber (no + or spaces)
   email: 'amir',
   address: 'Madabhavi,Athani,Karnataka',
   googleMapsLink: 'https://maps.app.goo.gl/edgYrDtQXsgGD5cq8', // Replace with actual Google Maps link
