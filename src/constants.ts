@@ -5,7 +5,7 @@ export const CONTACT_DETAILS = {
   address: 'Madabhavi,Athani,Karnataka',
   googleMapsLink: 'https://maps.app.goo.gl/edgYrDtQXsgGD5cq8', // Replace with actual Google Maps link
   googleMapsEmbedUrl: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1909.7398515787536!2d74.95472128412707!3d16.80254201343264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc12bfc64fccc25%3A0x51bf8a35b504efed!2sMulla%20Photography!5e0!3m2!1sen!2sin!4v1772028353168!5m2!1sen!2sin',
-  workingHours: 'Mon - Sun: 10AM - 8PM',
+  workingHours: 'Mon - Sun: 10AM - 10PM',
   socials: {
     instagram: 'https://www.instagram.com/mulla_photography99?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==',
   },
